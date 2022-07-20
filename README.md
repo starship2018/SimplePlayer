@@ -16,4 +16,4 @@ FFmpeg4.4 + SDL2.0.22 + QT5.12.0  Compiler : MSVC2017
 2.双击屏幕全屏播放，再次双击退回原始大小  
 3.窗口支持自由拖拽移动和拉伸缩放  
 
-![contents](./Snipaste_2022-07-20_16-37-41.png)
+![contents](https://github.com/starship2018/SimplePlayer/blob/main/Snipaste_2022-07-20_16-37-41.png)
